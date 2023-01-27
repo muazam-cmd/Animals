@@ -1,6 +1,6 @@
 function App() {
     return < div >
-        Show Animal List!
+        Show Animal List!!
     </div >
 }
 

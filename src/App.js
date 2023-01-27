@@ -10,7 +10,7 @@ function App() {
     return (
         <div>
             <button onClick={handleClick}>
-                Add Animal.
+                Add Animals.
         </button >
             <div>Number of animals: {count}</div>
         </div>
